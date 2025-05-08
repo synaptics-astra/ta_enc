@@ -11,6 +11,8 @@ wv13
 wv14
 wv15
 wv16
+wv17
+wv18
 libdtscore.ta
 libdtshd.ta
 libsrstruvol.ta
@@ -25,3 +27,17 @@ libgtvca.ta
 nohdcp
 nsk
 nskhdi
+libvpp_hdcp_dv_v2_4_hdr10Plus
+libvpp_hdcp_dv_v2_6_hdr10Plus
+libvpp_hdcp_dv_v2_4_nohdr10Plus
+libvpp_hdcp_dv_v2_6_nohdr10Plus
+libvpp_hdcp_nodv_hdr10Plus
+libvpp_hdcp_nodv_nohdr10Plus
+libvpp_nohdcp_dv_v2_4_hdr10Plus
+libvpp_nohdcp_dv_v2_6_hdr10Plus
+libvpp_nohdcp_nodv_hdr10Plus
+libvpp_nohdcp_nodv_nohdr10Plus
+libvpp_nohdcp_dv_v2_4_nohdr10Plus
+libvpp_nohdcp_dv_v2_6_nohdr10Plus
+libdvs.ta_v2_4
+libdvs.ta_v2_6
